@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RoomApp</string>
+    <string name="delete">delete</string>
+    <string name="search">search</string>
+    <string name="create">create</string>
+    <string name="update">update</string>
+</resources>
